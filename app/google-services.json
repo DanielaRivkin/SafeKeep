@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074938022769",
+    "project_id": "safekeep-36fd7",
+    "storage_bucket": "safekeep-36fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074938022769:android:bd0e6e8bf314ba6548c4d0",
+        "android_client_info": {
+          "package_name": "com.safe_keep.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ZzYFpLIWcG6NCwUnPlT95tnWNt2GHlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
